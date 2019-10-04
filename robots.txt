@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooyuhoogha.omenmicro.eu/sitemap.xml
